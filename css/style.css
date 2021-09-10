@@ -1,18 +1,23 @@
 
 #carousel {
    height: 400px;
-    margin: 5%;
+   width: 600px ;
+    margin-top:5%;
+    margin-bottom:5% ;
+    margin-left:30% ;
+    text-align: center;
 }
 
 #photo1 {
-    width: 500px;
+    width: 600px;
     height: 400px;
     text-align: center;
 } 
 #photo2 {
-    width: 800px;
+    width: 600px;
     height: 400px;
     text-align: center;
+    
 }  
 #photo3 {
     width: 600px;
@@ -29,4 +34,8 @@
 }
 #notification {
     background-color: rgb(23, 226, 226);
+}
+#title {
+    text-align: center;
+    
 }
